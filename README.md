@@ -4,10 +4,10 @@
 
 ## Скриншоты проекта
 
-![Иллюстрация к проекту](https://github.com/KaMoHub/DelisBot/blob/main/11.JPG)
-
-
-![Иллюстрация к проекту](https://github.com/KaMoHub/DelisBot/blob/main/12.JPG)
+<div align="center">
+<img src="https://github.com/KaMoHub/DelisBot/blob/main/11.JPG" alt="Скриншот 1" width="300"/>
+<img src="https://github.com/KaMoHub/DelisBot/blob/main/12.JPG" alt="Скриншот 2" width="300"/>
+</div>
 
 ## Описание проекта
 
